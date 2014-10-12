@@ -1,0 +1,9 @@
+PyQt4
+numpy
+
+# apt-get install python-pyside python-qt4 python-qwt5-qt4
+
+
+# documentation
+
+#sphinx
